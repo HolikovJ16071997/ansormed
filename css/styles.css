@@ -22,4 +22,5 @@ body{
 }
 .site-header-container{
     display: flex;
+    justify-content: space-around;
 }
